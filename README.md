@@ -16,7 +16,6 @@ We worked with **five core datasets**, each owned by a team member:
 3. **Campaign Performance Dataset** – Ad spend, clicks, impressions, cost metrics  
 4. **Tokens Dataset** – Token payments and basic applicant details  
 5. **Performance Marketing Leads Dataset** – Lead details, contact attempts, owner assignment, outcomes  
-
 The data was messy, inconsistent, and scattered.  
 We cleaned each dataset, engineered new features, integrated them where possible, and built a **Power BI dashboard** to give a clear view of the admissions funnel and lead quality.
 ---
