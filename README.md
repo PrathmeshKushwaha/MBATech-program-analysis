@@ -18,7 +18,9 @@ We worked with **five core datasets**, each owned by a team member:
 5. **Performance Marketing Leads Dataset** – Lead details, contact attempts, owner assignment, outcomes   <br>
 
 <p>The data was messy, inconsistent, and scattered. We cleaned each dataset, engineered new features, integrated them where possible, and built a **Power BI dashboard** to give a clear view of the admissions funnel and lead quality.</p>
+
 ---
+
 ## 🎯 Objectives
 
 Main objectives of the project:
